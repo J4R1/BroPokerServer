@@ -1,2 +1,2 @@
 # BroPokerServer
-![Screenshot](hannu.PNG)
+![Screenshot](hannu.png)
